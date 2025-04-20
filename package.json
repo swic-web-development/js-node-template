@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/swic-web-development/js-node-template#readme",
   "devDependencies": {
-    "@eslint/js": "^9.24.0",
-    "eslint": "^9.24.0",
+    "@eslint/js": "^9.25.0",
+    "eslint": "^9.25.0",
     "eslint-config-prettier": "^10.1.2",
     "globals": "^16.0.0",
     "prettier": "3.5.3"
